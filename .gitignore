@@ -1,0 +1,10 @@
+# Arquivos temporários do Excel
+~$*
+
+# Arquivos de backup
+*.bak
+*.tmp
+
+# Lixo de sistema (Windows, Mac)
+Thumbs.db
+.DS_Store
