@@ -2,6 +2,9 @@
 
 Planilha de Controle de Investimentos desenvolvida no Microsoft Excel, focada em organização, acompanhamento e análise de ativos financeiros.
 
+🖥️ Exemplo de Tela - Dashboard da Planilha
+
+![Visão Geral da Planilha](./dashboard-preview.png)
 
 
 ✅ Funcionalidades Principais
