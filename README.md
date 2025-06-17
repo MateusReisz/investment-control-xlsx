@@ -67,4 +67,4 @@ Sinta-se livre para clonar, adaptar e melhorar.
 
 ✍️ Autor
 
-Desenvolvido por **Mateus Felipe de Jesus Reis Carvalho**.
+Desenvolvido por **Mateus Reis**.
