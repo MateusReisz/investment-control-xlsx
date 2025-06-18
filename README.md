@@ -31,7 +31,7 @@ Planilha de Controle de Investimentos desenvolvida no Microsoft Excel, focada em
 - Microsoft Excel (.xlsx)
 - Fórmulas avançadas
 - Validação de dados
-- Tabelas dinâmicas e gráficos (se houver)
+- Tabelas dinâmicas e gráficos
 - Estrutura modular com separação de dados e interface
 
 
